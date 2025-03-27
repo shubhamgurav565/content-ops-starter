@@ -5,7 +5,9 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: >-
+        Metalworking Fluid Additives: The Hidden Force Behind Precision
+        Manufacturing
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle

@@ -5,7 +5,7 @@ date: '2025-01-02'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  dolor quas ad odit ipsum qui quia eius
 featuredImage:
   url: /images/Market-research-future.jpg
   altText: Thumbnail

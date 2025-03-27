@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Metalworking Fluid Additives Market
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Metalworking Fluid Additives Market
 slug: /
 sections:
   - type: GenericSection
